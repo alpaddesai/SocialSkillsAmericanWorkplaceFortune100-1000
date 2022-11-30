@@ -6,6 +6,6 @@ Project overview of social skills in american workplace
 
 ![image](Ethics.jpg)
 
-![image](USCopyrightCertificate.jpg)
+![image](USCopyrightCertificate.png)
 
 Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022

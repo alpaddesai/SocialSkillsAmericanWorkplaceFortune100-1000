@@ -1,4 +1,4 @@
-# Social Skills American Workplace Fortune 100-1000 2022
+# Social Skills American Workplace Fortune 100-1000 
 
 Project overview of social skills in american workplace
 

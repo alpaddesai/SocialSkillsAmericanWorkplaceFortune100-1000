@@ -8,4 +8,4 @@ Project overview of social skills in american workplace
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea

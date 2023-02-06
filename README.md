@@ -2,7 +2,7 @@
 
 Project overview of social skills in american workplace
 
-![image](SocialSkillsinAmericanWorkplace.jpg)
+![image](SocialSkillsinAmericanWorkplaceI.jpg)
 
 ![image](Ethics.jpg)
 
